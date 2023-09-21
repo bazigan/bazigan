@@ -1,4 +1,4 @@
-# Hi there, I'm <a href="#" target="_blank">Bazigan</a> <img src="assets/wavinghand.gif" width="30px">
+# Hi there, I'm <a href="#" target="_blank">Bazigan</a> <img src="assets/wavinfhand2.gif" width="30px">
 
 #### Here are my Github Statistics
 <p>
