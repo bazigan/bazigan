@@ -2,8 +2,8 @@
 
 #### Here are my Github Statistics
 <p>
-  <img height="180em" src="https://github-readme-stats-alpha-mauve.vercel.app/api?username=bazigan&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=vue" />
-  <img height="180em" src="https://github-readme-stats-alpha-mauve.vercel.app/api/top-langs/?username=bazigan&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=vue"/>
+  <img height="150em" src="https://github-readme-stats-alpha-mauve.vercel.app/api?username=bazigan&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=vue" />
+  <img height="150em" src="https://github-readme-stats-alpha-mauve.vercel.app/api/top-langs/?username=bazigan&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=vue"/>
 </p>
 
 #### Reach me :
