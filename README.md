@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bazigan <img src="assets/wavinghand.gif" width="25px">
+# Hi there, I'm <a href="https://blog.ngcloud.tech" target="_blank">Bazigan</a> <img src="assets/wavinghand.gif" width="30px">
 
 #### Here are my Github Statistics
 <p>
